@@ -1,2 +1,6 @@
 i#!/bin/bash
+<<<<<<< HEAD
 echo "School"
+=======
+echo "The school is open!"
+>>>>>>> origin/update_script
